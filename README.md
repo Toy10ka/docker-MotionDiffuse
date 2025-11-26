@@ -77,7 +77,7 @@ cd ~/cloneGit/MotionDiffuse
 mkdir -p output
 ```
 
-## Docker イメージのビルド
+## 4. Docker イメージのビルド
 
 リポジトリのルートで:
 
