@@ -2,6 +2,7 @@
 
 このリポジトリは、 [MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse) を **Docker でそのまま動かせるようにしたもの**です。  
 オリジナルの実装はLinuxを前提としていますが、Docker環境を用いることでWindowsホスト上での実行を可能にしています。
+
 RTX 4090（Ada）+ Windows 11 + Docker Desktop + NVIDIA Container Toolkit で動作を確認しています。
 
 ## Docker イメージの構成
