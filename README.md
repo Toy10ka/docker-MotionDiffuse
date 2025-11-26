@@ -1,6 +1,6 @@
 # docker-MotionDiffuse
 
-このリポジトリは、元の [MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse) を **Docker でそのまま動かせるようにしたもの**です。  
+このリポジトリは、 [MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse) を **Docker でそのまま動かせるようにしたもの**です。  
 RTX 4090（Ada）+ Windows 11 + Docker Desktop + NVIDIA Container Toolkit で動作確認しています。
 
 ## Docker イメージの構成
