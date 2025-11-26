@@ -1,0 +1,13 @@
+# キャッシュ
+__pycache__/
+# 学習済みモデルの重み (Google Driveから落としたやつ)
+text2motion/checkpoints/
+text2motion/data/
+text2motion/datasets/
+text2motion/pretrained_models/
+
+# 生成物・その他
+output/
+figures/
+
+
